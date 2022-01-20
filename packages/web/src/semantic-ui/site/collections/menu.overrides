@@ -1,0 +1,10 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+@secondaryColor: @yellow
+@primaryColor: @blue
+
+@itemBackground : yellow;
+
+@rounded     : @secondaryBorderRadius;

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1203047f.chunk.css",
+    "main.js": "/static/js/main.d6b8a782.chunk.js",
+    "main.js.map": "/static/js/main.d6b8a782.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ef24b56.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ef24b56.js.map",
+    "static/css/2.ad3f1685.chunk.css": "/static/css/2.ad3f1685.chunk.css",
+    "static/js/2.0ea165b4.chunk.js": "/static/js/2.0ea165b4.chunk.js",
+    "static/js/2.0ea165b4.chunk.js.map": "/static/js/2.0ea165b4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ad3f1685.chunk.css.map": "/static/css/2.ad3f1685.chunk.css.map",
+    "static/css/main.1203047f.chunk.css.map": "/static/css/main.1203047f.chunk.css.map",
+    "static/js/2.0ea165b4.chunk.js.LICENSE.txt": "/static/js/2.0ea165b4.chunk.js.LICENSE.txt",
+    "static/media/beer.88cb9114.svg": "/static/media/beer.88cb9114.svg",
+    "static/media/semantic.less": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/coffee.74588761.svg": "/static/media/coffee.74588761.svg",
+    "static/media/logo.17625113.svg": "/static/media/logo.17625113.svg",
+    "static/media/restaurant.4b33cc10.svg": "/static/media/restaurant.4b33cc10.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ef24b56.js",
+    "static/css/2.ad3f1685.chunk.css",
+    "static/js/2.0ea165b4.chunk.js",
+    "static/css/main.1203047f.chunk.css",
+    "static/js/main.d6b8a782.chunk.js"
+  ]
+}

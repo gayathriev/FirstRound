@@ -1,0 +1,95 @@
+{
+  "name": "@firstround/web",
+  "version": "0.1.0",
+  "description": "The react frontend for First Round",
+  "private": true,
+  "scripts": {
+    "run-install": "npm install",
+    "start-prod": "serve -p 5000 -s build",
+    "start-react": "react-scripts start",
+    "build-react": "react-scripts build",
+    "test-prod": "react-scripts test --watchAll=false",
+    "test-react": "echo no tests defined",
+    "dev-test": "react-scripts test",
+    "lint": "eslint  --ext .jsx,.js src/",
+    "eject-react": "react-scripts eject",
+    "start-dev": "craco start",
+    "start": "craco start",
+    "build": "craco build",
+    "test-craco": "craco test",
+    "eject": "craco eject",
+    "cypress:test": "cypress open"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.4.16",
+    "@date-io/date-fns": "^2.11.0",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@mapbox/polyline": "^1.1.1",
+    "@mui/icons-material": "^5.0.5",
+    "@mui/lab": "^5.0.0-alpha.53",
+    "@mui/material": "^5.0.6",
+    "@semantic-ui-react/craco-less": "^1.2.3",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@turf/center": "^6.5.0",
+    "@turf/circle": "^6.5.0",
+    "@uppy/core": "^2.1.0",
+    "@uppy/react": "^2.1.0",
+    "apollo-upload-client": "^16.0.0",
+    "date-fns": "^2.25.0",
+    "graphql": "^15.6.1",
+    "haversine-distance": "^1.2.1",
+    "maplibre-gl": ">=1.14.0",
+    "prop-types": "^15.7.2",
+    "qrcode.react": "^1.0.1",
+    "react": "^17.0.2",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-cookie": "^4.1.1",
+    "react-custom-scrollbars-2": "^4.4.0",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-map-gl": "^6.1.17",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "react-semantic-ui-range": "^0.7.1",
+    "semantic-ui-less": "^2.4.1",
+    "semantic-ui-react": "^2.0.4",
+    "styled-components": "^5.3.1",
+    "subscriptions-transport-ws": "^0.9.19",
+    "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "@craco/craco": "^6.3.0",
+    "cypress": "^8.7.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "lerna": "^4.0.0",
+    "prettier": "^2.4.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

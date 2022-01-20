@@ -1,0 +1,8 @@
+package-lock.json
+.vscode/
+node_modules/
+packages/api/build/
+**/.DS_STORE
+**/package-lock.json
+
+**/.env

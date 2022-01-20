@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "start": "lerna run start-prod",
+    "build": "lerna run build",
+    "install": "lerna run run-install",
+    "start-dev": "lerna run start-dev",
+    "lint": "lerna run lint",
+    "test": "lerna run test",
+    "test-server": "lerna run test --scope=@fistround/api",
+    "test-web": "lerna run test --scope=@firstround/web"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

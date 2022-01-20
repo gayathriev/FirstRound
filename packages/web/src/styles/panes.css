@@ -1,0 +1,47 @@
+/**
+    STYLES FOR VARIOUS PANE VIEWS
+
+    + Menu 
+    + Map
+*/
+
+.home-primary-pane {
+    width: 95% !important;
+    height: 650px !important;
+    margin-top: 3.5% !important;
+    margin-left: 5% !important;
+    border-radius: 2% !important;
+}
+
+.menu-pane {
+    border: 1px solid black;
+}
+
+.map-pane {
+    overflow: hidden;
+}
+
+
+.main-section {
+    width: 95%;
+    margin-left: 5%;
+}
+
+@media screen and (max-width: 769px){
+    .main-section{
+        width: 95%;
+        margin-left: 3% !important; 
+        margin-right: 3% !important;
+    }
+}
+
+@media screen and (max-width: 769px){
+    .home-primary-pane {
+        /* width: 100% !important; */
+        height: 650px !important;
+        margin-top: 3.5% !important;
+        margin-left: 3% !important;
+        margin-right: 3% !important;
+        border-radius: 2% !important;
+    }
+}

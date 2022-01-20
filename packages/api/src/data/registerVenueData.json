@@ -1,0 +1,378 @@
+{
+   "name":"McDonald's Kingsford",
+   "venueType":"CAFE",
+   "openingHours":{
+      "hours":[
+         {
+            "day":"Tuesday",
+            "open":{
+               "hours": 7,
+               "minutes":0
+            },
+            "close":{
+               "hours": 17,
+               "minutes": 0
+            }
+         }
+      ]
+   },
+   "reviews":[
+      
+   ],
+   "location":{
+      "type":"Point",
+      "coordinates":[
+         151.2279477,
+         -33.9182732
+      ]
+   },
+   "address":"10 Barker St, Kingsford",
+   "postcode":"2032",
+   "contactNumber":"0296621492",
+   "menu":[
+        {
+            "name":"Big Mac",
+            "price":6.8,
+            "isSpecial":false,
+            "uploader":"615fd77d19cbba4b74afb2da",
+            "verified":true,
+            "itemKind":"61777b37f86402a5ce7fd6a6",
+        }
+    ]
+}
+
+{
+   "name":"Oporto Kingsford",
+   "venueType":"RESTARAUNT",
+   "openingHours":{
+      "hours":[
+         {
+            "day":"Tuesday",
+            "open":{
+               "hours":7,
+               "minutes": 0
+            },
+            "close":{
+               "hours":17,
+               "minutes":0
+            },
+         }
+      ],
+   },
+   "reviews":[
+      
+   ],
+   "location":{
+      "type":"Point",
+      "coordinates":[
+          151.226553,
+          -33.92114
+      ]
+   },
+   "address":"287-291 Anzac Parade, Kingsford",
+   "postcode":"2032",
+   "contactNumber":"0296628177",
+}
+
+{
+   "name":"Dan Murphy's Rosebery",
+   "venueType":"BAR",
+   "openingHours":{
+      "hours":[
+         {
+            "day":"Tuesday",
+            "open":{
+               "hours":7,
+               "minutes":0
+            },
+            "close":{
+               "hours":17,
+               "minutes":0
+            },
+         }
+      ],
+   },
+   "reviews":[
+      
+   ],
+   "location":{
+      "type":"Point",
+      "coordinates":[
+         151.200566,
+         -33.917143
+      ]
+   },
+   "address":"767-779 Botany Road, Rosebery",
+   "postcode":"2018",
+   "contactNumber":"1300723388",
+}
+
+{
+   "name":"UNSW Guzman y Gomez",
+   "venueType":"RESTARAUNT",
+   "openingHours":{
+      "hours":[
+         {
+            "day":"Tuesday",
+            "open":{
+               "hours":7,
+               "minutes":0
+            },
+            "close":{
+               "hours":17,
+               "minutes":0
+            }
+         }
+      ]
+   },
+   "reviews":[
+      
+   ],
+   "location":{
+      "type":"Point",
+      "coordinates":[
+         151.2278473,
+         -33.9159104
+      ]
+   },
+   "address":"University Terraces, High St, Kensington",
+   "postcode":"2052",
+   "contactNumber":"0291910912",
+}
+
+{
+   "name":"Village Café",
+   "venueType":"CAFE",
+   "openingHours":{
+      "hours":[
+         {
+            "day":"Sunday",
+            "open":{
+               "hours":5,
+               "minutes":30
+            },
+            "close":{
+               "hours":13,
+               "minutes":30
+            }
+         },
+         {
+            "day":"Tuesday",
+            "open":{
+               "hours":5,
+               "minutes":30
+            },
+            "close":{
+               "hours":13,
+               "minutes":30
+            }
+         }
+      ],
+   },
+   "reviews":[
+      
+   ],
+   "location":{
+      "type":"longlat",
+      "coordinates":[
+         151.2285498,
+         -33.9159761
+      ],
+   },
+   "address":"UNSW Village Tower 2, UNSW, 2052",
+   "postcode":"2052",
+   "contactNumber":"0400000000",
+   "menu":[
+       {
+        "name":"flat white L",
+        "price":3.5,
+        "isSpecial":false,
+        "uploader":"615fd77d19cbba4b74afb2da",
+        "verified":true,
+        "itemKind":"6179e1878a15cfc32bffc4d0"
+       },
+       {
+        "name":"flat white S",
+        "price":2,
+        "isSpecial":false,
+        "uploader":"615fd77d19cbba4b74afb2da",
+        "verified":true,
+        "itemKind":"6179e1878a15cfc32bffc4d0"
+       },
+       {
+        "name":"Salmon Bagel",
+        "price":10.5,
+        "isSpecial":false,
+        "uploader":"615fd77d19cbba4b74afb2da",
+        "verified":true,
+        "itemKind":"6179e22d1451ea6151a2780c",
+       },
+       {
+        "name":"Breakfast Wrap",
+        "price":6.5,
+        "isSpecial":false,
+        "uploader":"615fd77d19cbba4b74afb2da",
+        "verified":true,
+        "itemKind":"6179e2221451ea6151a27809"
+       },
+       {
+        "name":"Lunch Wrap",
+        "price":6.5,
+        "isSpecial":false,
+        "uploader":"615fd77d19cbba4b74afb2da",
+        "verified":true,
+        "itemKind":"6179e2221451ea6151a27809"
+       },
+       {
+        "name":"Meat Pie",
+        "price":6.2,
+        "uploader":"615fd77d19cbba4b74afb2da",
+        "verified":true,
+        "isSpecial":true,
+        "specialHours":{
+           "hours":[
+               {
+                  "day":"Sunday",
+                  "open":{
+                     "hours":5,
+                     "minutes":30
+                  },
+                  "close":{
+                     "hours":13,
+                     "minutes":30
+                  }
+               },
+               {
+                  "day":"Tuesday",
+                  "open":{
+                     "hours":5,
+                     "minutes":30
+                  },
+                  "close":{
+                     "hours":13,
+                     "minutes":30
+                  }
+               }
+            ]
+         },
+         "itemKind":"6179e2401451ea6151a2780f",
+       },
+       {
+        "name":"Vegetarian Wrap",
+        "price":6.2,
+        "uploader":"615fd77d19cbba4b74afb2da",
+        "verified":true,
+        "isSpecial":true,
+        "specialHours":{
+           "hours" : [
+               {
+                  "day":"Monday",
+                  "open":{
+                     "hours":8,
+                     "minutes":30
+                  },
+                  "close":{
+                     "hours":13,
+                     "minutes":30
+                  }
+               },
+               {
+                  "day":"Wednesday",
+                  "open":{
+                     "hours":9,
+                     "minutes":30
+                  },
+                  "close":{
+                     "hours":13,
+                     "minutes":30
+                  }
+               }
+            ]
+         },
+         "itemKind":"6179e2221451ea6151a27809"
+       },
+   ],
+}
+
+{
+   "name":"Maze",
+   "venueType":"CAFE",
+   "openingHours":{
+      "hours":[
+         {
+            "day":"Sunday",
+            "open":{
+               "hours":5,
+               "minutes":30
+            },
+            "close":{
+               "hours":13,
+               "minutes":30
+            }
+         },
+         {
+            "day":"Tuesday",
+            "open":{
+               "hours":5,
+               "minutes":30
+            },
+            "close":{
+               "hours":13,
+               "minutes":30
+            }
+         }
+      ]
+   },
+   "menu":[
+      {
+        "name": "Dinner Wrap",
+        "price":6.5,
+        "isSpecial":true,
+        "uploader":"615fd77d19cbba4b74afb2da",
+        "verified":true,
+        "itemKind":"6179e2221451ea6151a27809"
+      }
+   ],
+   "reviews":[
+      
+   ],
+   "location":{
+      "type":"longlat",
+      "coordinates":[
+         151.228116,
+         -33.915468
+      ]
+   },
+   "address":"UNSW Terraces, UNSW, 2052",
+   "postcode":"2052",
+   "contactNumber":"0400000000",
+}
+
+{
+   "name":"Test's venue",
+   "venueType":"BAR",
+   "openingHours":{
+      "hours":[
+         
+      ]
+   },
+   "menu":[
+      
+   ],
+   "reviews":[
+      
+   ],
+   "tags":[
+      
+   ],
+   "location":{
+      "type":"point",
+      "coordinates":[
+         -130,
+         51
+      ]
+   },
+   "address":"Where the place is street 1",
+   "postcode":"2033",
+   "contactNumber":"0400callme",
+}

@@ -1,0 +1,6 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@primaryTextColor   : @black;
+@secondaryTextColor : @white;

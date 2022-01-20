@@ -1,0 +1,24 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@primaryColor       : @yellow;
+@secondaryColor     : @blue;
+@primaryTextColor   : @black;
+
+@yellow         : #FFC328;
+@blue           : #377f89;
+@purple         : #ab81cd;
+@green          : #0A9DFF;
+
+
+
+/*-------------------
+     Breakpoints
+--------------------*/
+
+@mobileBreakpoint            : 600px;
+@tabletBreakpoint            : 768px;
+@computerBreakpoint          : 992px;
+@largeMonitorBreakpoint      : 1200px;
+@widescreenMonitorBreakpoint : 1920px;

@@ -1,0 +1,11 @@
+.vscode/
+node_modules/
+package-lock.json
+extern/
+
+
+# Things that should be ignored but aren't
+# for dev
+
+# .env
+# firebase-conf.json

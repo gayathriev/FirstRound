@@ -1,0 +1,96 @@
+/**
+    STYLES FOR MENU COMPONENTS
+*/
+
+/* Align row of items horizontally */
+.banner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between !important;
+    align-items: baseline;
+    gap: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.tags-selector {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly !important;
+    align-items: center;
+    gap: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.tag {
+    margin: 2% 2% 2% 2% !important;
+}
+
+.heading {
+    font-weight: bold;
+    text-align: center;
+    align-self: baseline;
+}
+
+.banner-rule {
+    width: 90%;
+}
+
+.price-group {
+    display: inline-flex;
+    white-space: nowrap;
+    vertical-align: baseline;
+}
+
+.add-item {
+    margin-right: 5%;
+}
+
+.opening-hours {
+    margin-left: 5%;
+    display: inline-flex;
+    flex-direction: column;
+    margin-bottom: 5%;
+}
+
+.opening-hours-item {
+    display: inline-flex;
+    white-space: nowrap;
+    vertical-align: baseline;
+}
+
+.menu-section {
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.menu-section-rule {
+    width: 80%;
+}
+
+.menu-segment {
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.menu-item {
+    display: inline-flex;
+    white-space: nowrap;
+    vertical-align: baseline;
+    margin-bottom: 5%;
+}
+
+.menu-item-icon {
+    margin-right: 5%;
+    display: inline-flex;
+}
+
+.menu-item-price {
+    margin-left: 15%;
+    display: inline-flex;
+}

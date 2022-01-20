@@ -1,0 +1,1 @@
+export const osrmServer = 'http://35.189.54.248';
