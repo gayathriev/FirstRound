@@ -8,3 +8,5 @@ Big nights for less!
 | --------------------- | ---------------------------------------- |
 | [web](./packages/web) | The react fronted client for FirstRound  |
 | [api](./packages/api) | The graphql backend layer for FirstRound |
+
+Worked on as a capstone project.
